@@ -21,6 +21,7 @@ public class CursoDto {
 	
 	public String getNome() {
 		return nome;
+		//sout change
 	}
 
 	public static List<CursoDto> converter(List<Curso> topicos) {
